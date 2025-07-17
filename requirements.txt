@@ -1,0 +1,27 @@
+# --- 웹 프레임워크 및 서버 ---
+fastapi         # API 서버 구축
+uvicorn         # FastAPI 실행을 위한 ASGI 서버
+
+# --- AI & LangChain ---
+langchain
+langchain-openai
+langgraph
+openai          # OpenAI API 사용
+gTTS            # Google Text-to-Speech
+openai-whisper  # OpenAI Whisper STT
+
+# --- 머신러닝 & 데이터 처리 ---
+torch           # PyTorch
+torchaudio
+torchvision
+transformers    # Hugging Face 트랜스포머
+sentence-transformers # 문장 임베딩
+scikit-learn    # 머신러닝 라이브러리
+
+# --- 데이터베이스 ---
+chromadb        # Chroma 벡터 DB 클라이언트
+bcrypt          # 비밀번호 해싱
+
+# --- 유틸리티 ---
+python-dotenv   # .env 파일 관리
+coloredlogs     # 컬러 로깅
